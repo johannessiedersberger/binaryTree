@@ -45,7 +45,7 @@ namespace BinaryTree
 
     #region Contains
     /// <summary>
-    /// Check if the tree contains the given key
+    /// Checks if the tree contains the given key
     /// </summary>
     /// <param name="key"></param>
     /// <returns>returns true if the given value is included in the tree</returns>
